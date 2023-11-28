@@ -1,0 +1,17 @@
+[ {
+  "productName" : "MacBook Pro",
+  "sellerName" : "Alexander Ivanov",
+  "productPrise" : 13000
+}, {
+  "productName" : "iPhone 13",
+  "sellerName" : "Maria Petrova",
+  "productPrise" : 14000
+}, {
+  "productName" : "Sony Alpha A7III",
+  "sellerName" : "Alexander Ivanov",
+  "productPrise" : 18000
+}, {
+  "productName" : "DJI Mavic Air 2",
+  "sellerName" : "Maria Petrova",
+  "productPrise" : 19000
+} ]

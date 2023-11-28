@@ -1,0 +1,29 @@
+<root>
+    <listSeller>
+        <item>
+            <idSeller>1</idSeller>
+            <FirstName>Alexander</FirstName>
+            <SecondName>Ivanov</SecondName>
+        </item>
+        <item>
+            <idSeller>2</idSeller>
+            <FirstName>Maria</FirstName>
+            <SecondName>Petrova</SecondName>
+        </item>
+        <item>
+            <idSeller>3</idSeller>
+            <FirstName>John</FirstName>
+            <SecondName>Doe</SecondName>
+        </item>
+        <item>
+            <idSeller>4</idSeller>
+            <FirstName>Natalia</FirstName>
+            <SecondName>Sidorova</SecondName>
+        </item>
+        <item>
+            <idSeller>5</idSeller>
+            <FirstName>Vladimir</FirstName>
+            <SecondName>Kuznetsov</SecondName>
+        </item>
+    </listSeller>
+</root>

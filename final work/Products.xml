@@ -1,0 +1,24 @@
+<root>
+    <listProduct>
+        <item>
+            <idProduct>1</idProduct>
+            <title>MacBook Pro</title>
+        </item>
+        <item>
+            <idProduct>2</idProduct>
+            <title>iPhone 13</title>
+        </item>
+        <item>
+            <idProduct>3</idProduct>
+            <title>Sony Alpha A7III</title>
+        </item>
+        <item>
+            <idProduct>4</idProduct>
+            <title>DJI Mavic Air 2</title>
+        </item>
+        <item>
+            <idProduct>5</idProduct>
+            <title>Bose QuietComfort 35 II</title>
+        </item>
+    </listProduct>
+</root>
